@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+
+#menu-7 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-7 .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-7 .mbr-navbar__hamburger {
+  color: #7ac673;
+}
+#menu-7 .mbr-navbar__items a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+#msg-box3-16 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-16 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-16 .mbr-article {
+  text-align: center;
+}
+#msg-box3-16 .mbr-article UL {
+  text-align: center;
+}
+#msg-box3-16 .mbr-article LI {
+  text-align: left;
+}
+#msg-box2-15 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-15 .mbr-article {
+  color: #252525;
+}
+#slider-5 P {
+  font-family: 'Bitter', serif;
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
+}
